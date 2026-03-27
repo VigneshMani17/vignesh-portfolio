@@ -1,0 +1,30 @@
+Project Section:
+
+Project Name : TalkEaseAI: Communication System For Person With Disability 
+Link : https://github.com/VigneshMani17/TalkEaseAI_Communication_System_For_Person_With_Disability
+
+Project Name : ParkPal: IOT Based Smart Car Parking System
+Link : https://github.com/VigneshMani17/ParkPal_IOT_Based_Smart_Car_Parking_System
+
+Project Name : GlacierSense: AI Based Iceberg Detection In Satelllite Images
+Link : https://github.com/VigneshMani17/GlacierSense_AI_Based_Iceberg_Detection_In_Satelllite_Images
+
+Project Name : RayVision: Covid19 Detection In Xray Images Using AWS Sagemaker
+Link : https://github.com/VigneshMani17/RayVision_Covid19_Detection_In_Xray_Images_Using_AWS_Sagemaker
+
+Project Name : SafeCity: AI Driven Crime Trend Analysis for Chicago 
+Link : https://github.com/VigneshMani17/SafeCity_AI_Driven_Crime_Trend_Analysis_for_Chicago
+
+Project Name : PulseGuard: ECG Signal Prediction & Anomaly Detection
+Link : https://github.com/VigneshMani17/PulseGuard_ECG_Signal_Prediction_And_Anomaly_Detection
+
+Project Name : RestoReview: RAG Based Restaurant Review Analyzer
+Link : https://github.com/VigneshMani17/RestoReview_RAG_Based_Restaurant_Review_Analyzer
+
+Project Name : IndicPulse: News Classification In Indian Languages. 
+Link : https://github.com/VigneshMani17/IndicPulse_News_Classification_In_Indian_Languages.
+
+Project Name : TrustTrace: Signature Extraction & Verification for Banking Sector
+Link : https://github.com/VigneshMani17/TrustTrace_Signature_Extraction_And_Verification_for_Banking_Sector
+
+
