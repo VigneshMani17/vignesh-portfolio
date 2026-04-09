@@ -1,0 +1,56 @@
+I'm Vignesh, a Cloud & DevOps Engineer based in Chennai, Tamil Nadu, India. I hold an Integrated M.Tech in Software Engineering from Vellore Institute of Technology (CGPA: 9.14), with a strong foundation in cloud infrastructure, automation, and system reliability.
+
+Currently working as a Programmer Analyst Trainee at Cognizant Technology Solutions, I specialize in designing and managing cloud-native solutions on AWS, building CI/CD pipelines with Jenkins and GitHub Actions, and orchestrating containerized workloads using Docker and Kubernetes. I previously interned at Intel Technology India, where I contributed to GPU architecture simulation and improved unit test coverage by 25%.
+
+My core expertise spans AWS, Terraform, Ansible, Linux, Python, and Bash scripting. I'm passionate about infrastructure-as-code, DevOps best practices, and building scalable, observable systems using tools like Grafana, Splunk, and Kafka. I'm an AWS Certified AI Practitioner and a certified Python programmer.
+
+
+
+===============================================================================
+Project Section:
+
+Project Name : TalkEaseAI: Communication System For Person With Disability 
+Link : https://github.com/VigneshMani17/TalkEaseAI_Communication_System_For_Person_With_Disability
+An AI-driven communication system utilizing OpenCV and LSTM networks for real-time sign language translation and text-to-speech conversion. Leveraging gTTS and pyttsx3, the project transforms visual cues into spoken language to facilitate fluid, accessible communication for individuals with physical disabilities.
+
+
+Project Name : ParkPal: IOT Based Smart Car Parking System
+Link : https://github.com/VigneshMani17/ParkPal_IOT_Based_Smart_Car_Parking_System
+An automated urban parking solution that utilizes IR and ultrasonic sensors for real-time occupancy detection. Data is transmitted via Bluetooth (HC-05) to a mobile application, providing users with live availability updates and navigation to open spots, while a secure barrier system manages entry and exit.
+
+
+Project Name : GlacierSense: AI Based Iceberg Detection In Satelllite Images
+Link : https://github.com/VigneshMani17/GlacierSense_AI_Based_Iceberg_Detection_In_Satelllite_Images
+An advanced maritime safety tool that uses Convolutional Neural Networks (CNNs) to distinguish between icebergs and ships in high-resolution satellite data. The system integrates the A algorithm* to calculate safe navigation paths, providing a real-time visual simulation of maritime hazards and route optimization.
+
+
+Project Name : RayVision: Covid19 Detection In Xray Images Using AWS Sagemaker
+Link : https://github.com/VigneshMani17/RayVision_Covid19_Detection_In_Xray_Images_Using_AWS_Sagemaker
+A cloud-native medical imaging solution that automates COVID-19 screening using CNNs on chest X-rays. By leveraging AWS SageMaker, the system provides a scalable pipeline for model training and real-time inference, deploying the final solution to Amazon EC2 to ensure high availability for clinical decision support.
+
+
+Project Name : SafeCity: AI Driven Crime Trend Analysis for Chicago 
+Link : https://github.com/VigneshMani17/SafeCity_AI_Driven_Crime_Trend_Analysis_for_Chicago
+A predictive analytics platform that leverages Machine Learning to identify and visualize crime patterns across Chicago. By processing historical crime data, the system uncovers seasonal trends and high-risk hotspots, providing actionable insights into urban safety through automated data modeling and classification.
+
+
+Project Name : PulseGuard: ECG Signal Prediction & Anomaly Detection
+Link : https://github.com/VigneshMani17/PulseGuard_ECG_Signal_Prediction_And_Anomaly_Detection
+An AI-driven cardiac monitoring system that uses Deep Learning to analyze real-time ECG signals. The project focuses on predicting heart rate variability and detecting arrhythmias by identifying subtle deviations in rhythmic patterns, providing an early warning system for potential cardiac anomalies.
+
+
+Project Name : RestoReview: RAG Based Restaurant Review Analyzer
+Link : https://github.com/VigneshMani17/RestoReview_RAG_Based_Restaurant_Review_Analyzer
+An AI-powered review assistant that uses RAG to turn thousands of customer comments into actionable insights. It combines semantic search with Large Language Models to provide accurate, data-backed answers to any question about a restaurant’s dining experience.
+
+
+Project Name : IndicPulse: News Classification In Indian Languages. 
+Link : https://github.com/VigneshMani17/IndicPulse_News_Classification_In_Indian_Languages.
+A multilingual NLP system designed to categorize news headlines across five Indian languages. By fine-tuning the BERT language model, the project overcomes the complexities of regional syntax and script diversity to provide accurate, automated news organization and retrieval in a multilingual context.
+
+
+Project Name : TrustTrace: Signature Extraction & Verification for Banking Sector
+Link : https://github.com/VigneshMani17/TrustTrace_Signature_Extraction_And_Verification_for_Banking_Sector
+An automated document security system designed to detect and verify signatures on financial documents. Utilizing OpenCV for advanced image preprocessing and extraction, the system compares signatures against authorized templates to mitigate fraud and streamline verification workflows in high-volume banking environments.
+
+
